@@ -1,4 +1,4 @@
-package interviews.scratch
+package interviews.reverseInteger
 
 /**
  *
